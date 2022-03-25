@@ -1,4 +1,4 @@
-# Official-Capstone-
+# Official-Capstone
 
 This is the code used for all parts of the capstone project: Remote Doctor Assist Kit
 
