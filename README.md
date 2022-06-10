@@ -23,6 +23,6 @@ Sensors requiring pre-code setup:
 The kit must be connected in full - no missing sensors, in order for it to launch the GUI based program
 that guides the patient.
 
-The kit uses the Google Cloud Core APIs to transfer data from the Pi to the doctor. Arrangements to set
+The kit uses the Google Sheets API to transfer data from the Pi to the doctor. Arrangements to set
 up the google sheets,program and configure the sheets as well as to pay for Google's services must be 
 taken care of prior to any testing or operation. 
