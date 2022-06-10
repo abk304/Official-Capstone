@@ -5,9 +5,9 @@ This is the code used for all parts of the capstone project: Remote Doctor Assis
 Team: Team 5
 
 Team members:
-Abhay Kaushik
-Nan-Rong Hui
-Neithan Dutt
+Abhay Kaushik,
+Nan-Rong Hui,
+Neithan Dutt,
 Jesse Turinayo Mutabazi
 
 You will find all individual scripts used for different sensors, all of which must be initiated by
